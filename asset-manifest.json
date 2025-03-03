@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RcbPlayersProfile/static/css/main.13c82c00.css",
+    "main.js": "/RcbPlayersProfile/static/js/main.a1616aad.js",
+    "static/js/453.3e5b9522.chunk.js": "/RcbPlayersProfile/static/js/453.3e5b9522.chunk.js",
+    "index.html": "/RcbPlayersProfile/index.html",
+    "main.13c82c00.css.map": "/RcbPlayersProfile/static/css/main.13c82c00.css.map",
+    "main.a1616aad.js.map": "/RcbPlayersProfile/static/js/main.a1616aad.js.map",
+    "453.3e5b9522.chunk.js.map": "/RcbPlayersProfile/static/js/453.3e5b9522.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c82c00.css",
+    "static/js/main.a1616aad.js"
+  ]
+}
